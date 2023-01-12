@@ -26,3 +26,5 @@ p1 = Pessoa('Gustavo', 19)
 p2 = Pessoa('João', 32)
 
 p1.comer('batata')
+
+#Teste
